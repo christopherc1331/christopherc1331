@@ -7,7 +7,7 @@
 <br />
 <br />
 
-Hi there, I'm **Chris Cruz**, a **Full Stack Software Engineer** and a **Technology and Data Science Enthusiast** 🚀 from California. In August 2020 I graduated from Lambda School's Full Stack Web Dev and Computer Science 1.5 year course. LeetCode Pro! 👨🏽‍💻 [@Kaggle](https://leetcode.com/christopher-cruz/), and am current employed as a Data Analyst 👨🏽‍💼.
+Hi there, I'm **Chris Cruz**, a **Full Stack Software Engineer** and a **Technology and Data Science Enthusiast** 🚀 from California. In August 2020 I graduated from Lambda School's Full Stack Web Dev and Computer Science 1.5 year course. LeetCode Pro! 👨🏽‍💻 [@LeetCode](https://leetcode.com/christopher-cruz/), and I am current employed as a Data Analyst 👨🏽‍💼.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/XkNv6S9ardASk/giphy.gif" />
 
