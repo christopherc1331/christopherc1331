@@ -16,7 +16,7 @@ Hi there, I'm **Chris Cruz**, a **Full Stack Software Engineer** and a **Technol
 - 👨🏽‍💻 I’m currently seeking Full Stack Software Engineer positions in Spokane Washington || Remote
 - 🌱 I'm currently taking an introduction to C++ course
 - 🤔 My interests are in Back End API and Service development, Front End React development, and SQL/database development
-- 💼 I’m received my endorsement from Lambda School in 2020
+- 💼 I received my endorsement from Lambda School in 2020
 - 💬 Reach out if you'd like to connect, or just talk about your background/experience
 - 📫 Please email via christopherc1331@gmail.com to reach me
 <!-- - 📝 See my [Portfolio](http://www.ccruz.engineer) to get more info. -->
