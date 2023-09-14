@@ -7,15 +7,15 @@
 <br />
 <br />
 
-Hi there, I'm **Chris Cruz**, a **Full Stack Software Engineer** and a **Technology and Data Science Enthusiast** 🚀 currently based in Spokane Washington. In August 2020 I graduated from Lambda School's Full Stack Web Dev and Computer Science 1.5 year course. LeetCode Pro! 👨🏽‍💻 [@LeetCode](https://leetcode.com/christopher-cruz/), and I am currently employed as a Backend Software Engineer 👨🏽‍💼. My ideal future role would be working with either C++ or Rust :D
+Hi there, I'm **Chris Cruz**, a **Full Stack Software Engineer** and a **Technology Enthusiast** 🚀 currently based in Dallas Texas. In 2017 I started my journey into software development and computer science, by taking courses at my local college and online. I did a few years of self teaching like this before I decided to join Lambda School in August 2020 where I graduated from their Full Stack Web Dev and Computer Science 1.5 year course. LeetCode Pro! 👨🏽‍💻 [@LeetCode](https://leetcode.com/christopher-cruz/), and I am currently employed as a Full Stack Software Engineer at QSRSoft👨🏽‍💼. My ideal future role would be working with either C++, Rust, or Kotlin :D
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/XkNv6S9ardASk/giphy.gif" />
 
 **What's New:**
 
 <!-- - 👨🏽‍💻 I’m currently seeking Full Stack Software Engineer positions in Spokane Washington || Remote -->
-- 🌱 I'm currently taking an introduction to C++ course
-- 🤔 My interests are in Back End API and Service development, Front End React development, and SQL/database development
+- 🌱 I'm currently building a side project (scritto.xyz) in Kotlin, SolidJS, and MySQL
+- 🤔 My interests are in Back End API and Service development, Front End SolidJS development, and SQL/database development
 - 💼 I received my endorsement from Lambda School in 2020
 - 💬 Reach out if you'd like to connect, or just talk about your background/experience
 - 📫 Please email via christopherc1331@gmail.com to reach me
