@@ -43,6 +43,8 @@ Hi there, I'm **Chris Cruz**, a **Full Stack Software Engineer** and a **Technol
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=christopherc1331)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=christopherc1331&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/christopherc1331)
+
 ![Chris's github stats](https://github-readme-stats.vercel.app/api?username=christopherc1331&show_icons=true&hide_border=true)
 
 ⭐️ From [christopherc1331](https://github.com/christopherc1331)
