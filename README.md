@@ -7,14 +7,14 @@
 <br />
 <br />
 
-Hi there, I'm **Chris Cruz**, a **Full Stack Software Engineer** and a **Technology Enthusiast** 🚀 currently based in Dallas Texas. In 2017 I started my journey into software development and computer science, by taking courses at my local college and online. I did a few years of self teaching like this before I decided to join Lambda School in August 2020 where I graduated from their Full Stack Web Dev and Computer Science 1.5 year course. LeetCode Pro! 👨🏽‍💻 [@LeetCode](https://leetcode.com/christopher-cruz/), and I am currently employed as a Full Stack Software Engineer at QSRSoft👨🏽‍💼. My ideal future role would be working with either C++, Rust, or Kotlin :D
+Hi there, I'm **Chris Cruz**, a **Full Stack Software Engineer** and a **Technology Enthusiast** 🚀 currently based in Dallas Texas. In 2017 I started my journey into software development and computer science by taking courses at my local college as well as courses online (Coursera, CodeAcademy, etc.). I did a few years of self teaching like this before I decided to join a bootcamp called Bloomtech (pka: Lambda School) in August 2019 where I graduated from their Full Stack Web Dev and Computer Science 1.5 year course. LeetCode Pro! 👨🏽‍💻 [@LeetCode](https://leetcode.com/christopher-cruz/), and I am currently employed as a Full Stack Software Engineer at QSRSoft👨🏽‍💼. My ideal future role would be working with either C++, Rust, or Kotlin :D
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/XkNv6S9ardASk/giphy.gif" />
 
 **What's New:**
 
 <!-- - 👨🏽‍💻 I’m currently seeking Full Stack Software Engineer positions in Spokane Washington || Remote -->
-- 🌱 I'm currently building a side project (scritto.xyz) in Kotlin, SolidJS, and MySQL
+- 🌱 I'm currently building a side project ([seekr.ink](seekr.ink)) in Kotlin, SolidJS, and MySQL
 - 🤔 My interests are in Back End API and Service development, Front End SolidJS development, and SQL/database development
 - 💼 I received my endorsement from Lambda School in 2020
 - 💬 Reach out if you'd like to connect, or just talk about your background/experience
