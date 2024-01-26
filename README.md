@@ -14,7 +14,7 @@ Hi there, I'm **Chris Cruz**, a **Full Stack Software Engineer** and a **Technol
 **What's New:**
 
 <!-- - 👨🏽‍💻 I’m currently seeking Full Stack Software Engineer positions in Spokane Washington || Remote -->
-- 🌱 I'm currently building a side project [seekr.ink](https://seekr.ink) in Kotlin, SolidJS, and MySQL
+- 🌱 I'm currently building a side project \([seekr.ink](https://seekr.ink)\) in Kotlin, SolidJS, and MySQL
 - 🤔 My interests are in Back End API and Service development, Front End SolidJS development, and SQL/database development
 - 💼 I received my endorsement from Lambda School in 2020
 - 💬 Reach out if you'd like to connect, or just talk about your background/experience
