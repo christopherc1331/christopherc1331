@@ -1,25 +1,31 @@
 ### Hey 👋, I'm Chris
 
-<a href="https://www.linkedin.com/in/christopherc1331/">
-  <img align="left" alt="Chris's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+<!-- <a href="https://www.linkedin.com/in/christopherc1331/">
+  <img align="left" alt="Chris's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a> -->
 
 <br />
 <br />
 
-Hi there, I'm **Chris Cruz**, a **Full Stack Software Engineer** and a **Technology Enthusiast** 🚀 currently based in Dallas Texas. In 2017 I started my journey into software development and computer science by taking courses at my local college as well as courses online (Coursera, CodeAcademy, etc.). I did a few years of self teaching like this before I decided to join a bootcamp called Bloomtech (pka: Lambda School) in August 2019 where I graduated from their Full Stack Web Dev and Computer Science 1.5 year course. LeetCode Pro! 👨🏽‍💻 [@LeetCode](https://leetcode.com/christopher-cruz/), and I am currently employed as a Full Stack Software Engineer at QSRSoft👨🏽‍💼. My ideal future role would be working with either C++, Rust, or Kotlin :D
+I'm **Chris Cruz**, a **Full Stack Software Engineer** based in Dallas, Texas. I originally came from a **Data Analyst / Data Engineer** background and gradually transitioned into software development after discovering how much I enjoyed writing code to solve problems.
+
+Since then, I’ve worked with **Java**, **TypeScript**, **Python**, **SQL**, and **AWS** across various full stack projects — from internal tools to scalable backend services. Lately, I’ve been diving into systems programming and experimenting with **Rust** through side projects and smaller tools.
+
+I’m currently a Full Stack Software Engineer at **QSRSoft**, sharpening my skills on **LeetCode** [👨🏽‍💻 @LeetCode](https://leetcode.com/christopher-cruz/), and I’d love to work more with **Rust**, **C++**, or **Kotlin** in my next role.
+
+> 🔦 Featured Project:  
+> 🖼️ [**Ray Tracing in One Weekend (Rust)**](https://github.com/christopherc1331/ray_tracing_in_one_weekend) — My attempt at building a ray tracer from scratch using Rust. A deep dive into graphics programming and performance-oriented design.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/XkNv6S9ardASk/giphy.gif" />
 
 **What's New:**
 
-<!-- - 👨🏽‍💻 I’m currently seeking Full Stack Software Engineer positions in Spokane Washington || Remote -->
 <!-- -🌱 I'm currently building a side project \([seekr.ink](https://seekr.ink)\) in Kotlin, SolidJS, and MySQL -->
-- 🌱 I'm currently building a tattoo artist discovery side project in Rust, WASM, Leptos, and SqlLite
-- 🤔 My interests are in Back End API and Service development, Front End SolidJS development, and SQL/database development
+- 🌱 I'm currently building a tattoo artist discovery side project in Rust, WASM, Leptos, and SQLite
+- 🤔 Interests: backend API/service development, frontend with SolidJS, and database-heavy apps
 - 💼 I received my endorsement from Lambda School in 2020
-- 💬 Reach out if you'd like to connect, or just talk about your background/experience
-- 📫 Please email via christopherc1331@gmail.com to reach me
+- 💬 Reach out if you'd like to connect or swap stories about dev journeys
+- 📫 Email me at christopherc1331@gmail.com
 <!-- - 📝 See my [Portfolio](http://www.ccruz.engineer) to get more info. -->
 
 **Languages and Tools:**
@@ -42,8 +48,7 @@ Hi there, I'm **Chris Cruz**, a **Full Stack Software Engineer** and a **Technol
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
 
-<!-- - [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=christopherc1331)](https://github.com/christopherc1331/github-readme-stats) -->
-
 ![Chris's github stats](https://github-readme-stats.vercel.app/api?username=christopherc1331&show_icons=true&hide_border=true)
 
 ⭐️ From [christopherc1331](https://github.com/christopherc1331)
+
