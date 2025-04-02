@@ -14,7 +14,8 @@ Since then, I’ve worked with **Java**, **TypeScript**, **Python**, **SQL**, an
 I’m currently a Full Stack Software Engineer at **QSRSoft**, sharpening my skills on **LeetCode** [👨🏽‍💻 @LeetCode](https://leetcode.com/christopher-cruz/), and I’d love to work more with **Rust**, **C++**, or **Kotlin** in my next role.
 
 > 🔦 Featured Project:  
-> 🖼️ [**Ray Tracing in One Weekend (Rust)**](https://github.com/christopherc1331/ray_tracing_in_one_weekend) — My attempt at building a ray tracer from scratch using Rust. A deep dive into graphics programming and performance-oriented design.
+> 🖼️ [**Ray Tracing in One Weekend (Rust)**](https://github.com/christopherc1331/ray_tracing_in_one_weekend) — A fully working ray tracer built from scratch in Rust. This project was a deep dive into rendering, math-heavy graphics programming, and performance-tuned design.  
+> <img src="/images/ray_tracer_in_a_weekend_final_render.jpeg" alt="Ray Tracer Render" width="100%" />
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/XkNv6S9ardASk/giphy.gif" />
 
