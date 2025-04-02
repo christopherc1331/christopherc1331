@@ -27,21 +27,22 @@ _Final render shown below took ~55 minutes running off of CPU._
   <img src="images/dactyl_manuform.jpg" alt="My Dactyl Manuform keyboard" width="500" />
 </p>
 
+
+
 ---
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/XkNv6S9ardASk/giphy.gif" />
-
+  
 **What's New:**
 
 <!-- -🌱 I'm currently building a side project \([seekr.ink](https://seekr.ink)\) in Kotlin, SolidJS, and MySQL -->
 - 🌱 I'm currently building a tattoo artist discovery side project in Rust, WASM, Leptos, and SQLite
-- 🤔 Interests: backend API/service development, frontend with SolidJS, and database-heavy apps
-- 💼 I received my endorsement from Lambda School in 2020
+- 🤔 Interests: backend Rust API/service development
+- 💼 I received my endorsement from BloomTech (fka: Lambda) in 2020
 - 💬 Reach out if you'd like to connect or swap stories about dev journeys
 - 📫 Email me at christopherc1331@gmail.com
 <!-- - 📝 See my [Portfolio](http://www.ccruz.engineer) to get more info. -->
 
----
 
 ### 🛠️ Languages and Tools
 
