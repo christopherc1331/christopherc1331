@@ -13,11 +13,20 @@ Since then, I’ve worked with **Java**, **TypeScript**, **Python**, **SQL**, an
 
 I’m currently a Full Stack Software Engineer at **QSRSoft**, sharpening my skills on **LeetCode** [👨🏽‍💻 @LeetCode](https://leetcode.com/christopher-cruz/), and I’d love to work more with **Rust**, **C++**, or **Kotlin** in my next role.
 
-> 🔦 Featured Project:  
-> 🖼️ [**Ray Tracing in One Weekend (Rust)**](https://github.com/christopherc1331/ray_tracing_in_one_weekend) — A fully working ray tracer built from scratch in Rust. This project was a deep dive into rendering, math-heavy graphics programming, and performance-tuned design.  
+> 🔦 Featured Project:
+> 🖼️ [**Ray Tracing in One Weekend (Rust)**](https://github.com/christopherc1331/ray_tracing_in_one_weekend) — A fully working ray tracer built from scratch in Rust. This project was a deep dive into rendering, math-heavy graphics programming, and performance-tuned design.
+> Final render shown below took ~55 minutes running off of CPU.
 > <img src="/images/ray_tracer_in_a_weekend_final_render.jpeg" alt="Ray Tracer Render" width="100%" />
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/XkNv6S9ardASk/giphy.gif" />
+
+  
+**🧠 Fun Dev Facts:**
+
+- I daily drive **Linux** (btw 😄)
+- My main keyboard is a **Dactyl Manuform** — fully split, columnar, with no labels.  
+  <img src="images/dactyl_manuform.jpg" alt="My Dactyl Manuform keyboard" width="500" />
+
 
 **What's New:**
 
@@ -48,8 +57,6 @@ I’m currently a Full Stack Software Engineer at **QSRSoft**, sharpening my ski
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
-
-![Chris's github stats](https://github-readme-stats.vercel.app/api?username=christopherc1331&show_icons=true&hide_border=true)
 
 ⭐️ From [christopherc1331](https://github.com/christopherc1331)
 
