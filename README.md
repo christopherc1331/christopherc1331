@@ -1,32 +1,35 @@
 ### Hey 👋, I'm Chris
 
-<!-- <a href="https://www.linkedin.com/in/christopherc1331/">
-  <img align="left" alt="Chris's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a> -->
-
-<br />
-<br />
-
 I'm **Chris Cruz**, a **Full Stack Software Engineer** based in Dallas, Texas. I originally came from a **Data Analyst / Data Engineer** background and gradually transitioned into software development after discovering how much I enjoyed writing code to solve problems.
 
 Since then, I’ve worked with **Java**, **TypeScript**, **Python**, **SQL**, and **AWS** across various full stack projects — from internal tools to scalable backend services. Lately, I’ve been diving into systems programming and experimenting with **Rust** through side projects and smaller tools.
 
 I’m currently a Full Stack Software Engineer at **QSRSoft**, sharpening my skills on **LeetCode** [👨🏽‍💻 @LeetCode](https://leetcode.com/christopher-cruz/), and I’d love to work more with **Rust**, **C++**, or **Kotlin** in my next role.
 
-> 🔦 Featured Project:
-> 🖼️ [**Ray Tracing in One Weekend (Rust)**](https://github.com/christopherc1331/ray_tracing_in_one_weekend) — A fully working ray tracer built from scratch in Rust. This project was a deep dive into rendering, math-heavy graphics programming, and performance-tuned design.
-> Final render shown below took ~55 minutes running off of CPU.
-> <img src="/images/ray_tracer_in_a_weekend_final_render.jpeg" alt="Ray Tracer Render" width="100%" />
+---
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/XkNv6S9ardASk/giphy.gif" />
+### 🔦 Featured Project
 
-  
-**🧠 Fun Dev Facts:**
+🖼️ [**Ray Tracing in One Weekend (Rust)**](https://github.com/christopherc1331/ray_tracing_in_one_weekend)  
+A fully working ray tracer built from scratch in Rust. This project was a deep dive into rendering, math-heavy graphics programming, and performance-tuned design.  
+_Final render shown below took ~55 minutes running off of CPU._
+
+<img src="images/ray_tracer_in_a_weekend_final_render.jpeg" alt="Ray Tracer Render" width="100%" />
+
+---
+
+### 🧠 Fun Dev Facts
 
 - I daily drive **Linux** (btw 😄)
-- My main keyboard is a **Dactyl Manuform** — fully split, columnar, with no labels.  
-  <img src="images/dactyl_manuform.jpg" alt="My Dactyl Manuform keyboard" width="500" />
+- My main keyboard is a **Dactyl Manuform** — fully split, columnar, with no labels.
 
+<p align="center">
+  <img src="images/dactyl_manuform.jpg" alt="My Dactyl Manuform keyboard" width="500" />
+</p>
+
+---
+
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/XkNv6S9ardASk/giphy.gif" />
 
 **What's New:**
 
@@ -38,7 +41,9 @@ I’m currently a Full Stack Software Engineer at **QSRSoft**, sharpening my ski
 - 📫 Email me at christopherc1331@gmail.com
 <!-- - 📝 See my [Portfolio](http://www.ccruz.engineer) to get more info. -->
 
-**Languages and Tools:**
+---
+
+### 🛠️ Languages and Tools
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -58,5 +63,6 @@ I’m currently a Full Stack Software Engineer at **QSRSoft**, sharpening my ski
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
 
-⭐️ From [christopherc1331](https://github.com/christopherc1331)
+---
 
+⭐️ From [christopherc1331](https://github.com/christopherc1331)
