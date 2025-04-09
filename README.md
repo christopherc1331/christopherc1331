@@ -2,7 +2,7 @@
 
 I'm **Chris Cruz**, a **Full Stack Software Engineer** based in Dallas, Texas. I originally came from a **Data Analyst / Data Engineer** background and gradually transitioned into software development after discovering how much I enjoyed writing code to solve problems.
 
-Since then, I’ve worked with **Java**, **TypeScript**, **Python**, **SQL**, and **AWS** across various full stack projects — from internal tools to scalable backend services. Lately, I’ve been diving into systems programming and experimenting with **Rust** through side projects and smaller tools.
+Since then, I’ve worked with **Java**, **TypeScript**, **Python**, **SQL**, **AWS**, **Azure**, and **GCP** across various full stack projects — from internal tools to scalable backend services. Lately, I’ve been diving into systems programming and experimenting with **Rust** through side projects and smaller tools.
 
 I’m currently a Full Stack Software Engineer at **QSRSoft**, sharpening my skills on **LeetCode** [👨🏽‍💻 @LeetCode](https://leetcode.com/christopher-cruz/), and I’d love to work more with **Rust**, **C++**, or **Kotlin** in my next role.
 
