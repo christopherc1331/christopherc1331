@@ -22,6 +22,7 @@ _Final render shown below took ~55 minutes running off of CPU._
 
 - I daily drive **Linux** (btw 😄)
 - My main keyboard is a **Dactyl Manuform** — fully split, columnar, with no labels.
+- I develop in Neovim via the LazyVim distribution
 
 <p align="center">
   <img src="images/dactyl_manuform.jpg" alt="My Dactyl Manuform keyboard" width="500" />
